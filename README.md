@@ -1,3 +1,5 @@
+## source code: https://pysource.com/2021/06/08/image-augmentation-improve-your-dataset-with-imgaug/
+
 # Image-Augmentation
 What is the concept behind Image Augmentation
 There are many things to consider when creating a custom detector and one of them is the image dataset. For example, if we were to have this type of dog recognized:
