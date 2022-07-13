@@ -9,4 +9,5 @@ For this reason, it is necessary to use a library or code for augmenting the ima
 There are various methods to augment images but we will use a python library called imgaug. To install, open the terminal and run the command:
 
 pip install imgaug
+
 If you don’t get any errors, everything has been installed correctly.
